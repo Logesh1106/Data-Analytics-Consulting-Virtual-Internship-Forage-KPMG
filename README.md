@@ -11,4 +11,8 @@ Main objective is to find top 1000 high value customers based on customer demogr
 
 I have used RFM analysis to find the top 1000 customers.
 
+Link to Internship : https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=GGPm6uBiTkRixz5Lr
+
 Link to Tableau Dashboard : https://public.tableau.com/app/profile/logeswaran.1106/viz/KPMGvirtualinternship_16786152228860/Dashboard1
+
+![Dashboard 1](https://user-images.githubusercontent.com/111060707/224629150-b7aa07b8-418a-401b-bd46-90d45c2f4761.png)
