@@ -1,6 +1,6 @@
 # Data-Analytics-Consulting-Virtual-Internship-Forage-KPMG
 
-The KPMG Data Analytics Virtual Internship is designed to help you gain a practical insight into the work we do at KPMG and it is an opportunity for you to build your career skills and experience.
+The KPMG Data Analytics Virtual Internship is designed to help you gain a practical insight into the work at KPMG and it is an opportunity for you to build your career skills and experience.
 
 The Internship consists of 3 tasks:
 1. Data Quality Assessment
